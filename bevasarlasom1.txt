@@ -4,3 +4,4 @@ víz
 kóla
 
 >>>>>>> 0692bca2b24adbd01c745e5f22cf4ccd1bd2f18d
+kenyér
